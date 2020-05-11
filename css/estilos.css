@@ -4,3 +4,21 @@ body
     color: royalblue;
     font: bolder;
 }
+
+p
+{
+    font-size: 20px;
+}
+
+#contenedor
+{
+    width: 70%;
+    height: 200px;
+    margin: auto;
+    border: 2px solid rebeccapurple
+}
+
+#contenedor h1
+{
+    font-size: 50px;
+}
