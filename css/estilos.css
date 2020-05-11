@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    color: royalblue;
+    color: rgb(65, 225, 100);
     font: "Arial";
     font-size: 16px;
     margin: 0;
@@ -11,13 +11,7 @@ body
 
 p
 {
-<<<<<<< HEAD
     font-size: 50px;
-=======
-    font-size: 30px;
-    margin-left: 400px;
-    color: royalblue;
->>>>>>> cabecera
 }
 
 #contenedor
