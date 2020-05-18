@@ -51,3 +51,11 @@ p
 
  
 }
+
+footer
+{
+    background: #123abc;
+    color: khaki;
+    text-align: center;
+    padding: 5px;
+}
